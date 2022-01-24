@@ -12,3 +12,8 @@
 # Others
 >Different_SongParts_Test.ipynb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the accuracy of model conducted on multi-piece fragements    
 >Experiment_Visualization.ipynb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exact features and 2d-visualization
+
+![](./paper/NN.jpg)  
+we have presented a novel triplet Siamese network dubbed as triple-wise similarity with recurrent neural network (TSN-R) for learning sequential patterns in a self- supervised way.   
+![](./paper/p1p2p3.jpg)   
+we reveal the reasons for the good performance of TSN-R network through the 2d-visualization of features.  
